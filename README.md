@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖  I'm a student of Robotics and Digital Systems<br>🔭  Striving to be a research scientist, lover of science, technology, and its relation to humanity<br> 🖥️ I'm currently learning computer vision and its applications 
+🤖  Student of Robotics and Digital Systems<br>🔭  Striving to be a research scientist, lover of science, technology, and its relation to humanity<br> 🖥️ I'm currently learning computer vision and its applications 
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JM-Yamajo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JM-Yamajo&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Yamajo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JM-Yamajo&icon=0&color=0)](https://visitcount.itsvg.in)
