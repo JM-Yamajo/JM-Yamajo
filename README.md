@@ -4,10 +4,6 @@
 
 Aspiring ML & Robotics Scientist | Recent graduate with a focus on advancing technology at the intersection of robotics and machine learning | Passionate about developing cutting-edge algorithms for autonomous systems | Currently enhancing skills in ML and mathematics to lay the groundwork for future innovations 
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jm-yamajo/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/jhonatanyael)
