@@ -18,7 +18,6 @@ Aspiring ML & Robotics Scientist | Recent graduate with a focus on advancing tec
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JM-Yamajo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JM-Yamajo&theme=tokyonight&hide_border=true)
-![](https://github-contributor-stats.vercel.app/api?username=JM-Yamajo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Yamajo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
