@@ -32,7 +32,6 @@ Aspiring ML & Robotics Scientist | Focused on advancing technology at the inters
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Yamajo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=JM-Yamajo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
 ---
 
