@@ -29,7 +29,7 @@ Aspiring ML & Robotics Scientist | Focused on advancing technology at the inters
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Yamajo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
