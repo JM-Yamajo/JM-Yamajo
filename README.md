@@ -2,7 +2,7 @@
 
 **Robotics & Digital Systems Engineer**
 
-Aspiring Robotics & Machine Learning Scientist | Passionate about pushing the boundaries of robotics, computer vision, and AI |Continuously learning about algorithms for autonomous systems, computer vision, and path-planning techniques| Currently refining my skills to create the next generation of intelligent, autonomous technologies
+Aspiring Robotics & Machine Learning Scientist | Passionate about pushing the boundaries of robotics, computer vision, and AI |Continuously learning about algorithms for autonomous systems, computer vision, and path-planning techniques | Currently refining my skills to create the next generation of intelligent, autonomous technologies.
 
 ## 🌐 Socials
 
