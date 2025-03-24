@@ -2,7 +2,7 @@
 
 **Robotics & Digital Systems Engineer**
 
-**"Aspiring Robotics & AI Researcher | Passionate about advancing autonomous systems, computer vision, and intelligent robotics | Exploring cutting-edge algorithms in SLAM, perception, and deep learning to push the boundaries of robotic autonomy | Currently developing innovative solutions in machine learning, embedded systems, and biosignal analysis to bridge AI with real-world applications."**  
+"Aspiring Robotics & AI Researcher | Passionate about advancing autonomous systems, computer vision, and intelligent robotics | Exploring cutting-edge algorithms in SLAM, perception, and deep learning to push the boundaries of robotic autonomy | Currently developing innovative solutions in machine learning, embedded systems, and biosignal analysis to bridge AI with real-world applications."**  
 
 ## 🌐 Socials
 
